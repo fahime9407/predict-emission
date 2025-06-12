@@ -71,4 +71,9 @@ Understanding which vehicle characteristics most significantly affect emissions 
 
 This project is part of my hands-on learning in machine learning and is open for further improvements (e.g., adding multiple regression, feature scaling, or cross-validation).
 
+```markdown
+> 📁 The dataset is not included in the repository due to licensing and size considerations.  
+> The code automatically downloads the required dataset from the source.  
+> Please ensure you have an active internet connection when running the notebook.
+```
 ---
