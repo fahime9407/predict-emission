@@ -11,6 +11,10 @@ This project was developed as part of my self-learning journey in machine learni
 
 The dataset used in this project was sourced from [Kaggle](https://www.kaggle.com). It contains technical specifications of different vehicles such as engine size, fuel consumption, number of cylinders, and their corresponding CO₂ emissions.
 
+> 📁 The dataset file used in this project has also been included in the repository for reference and reproducibility.
+> However, the code is designed to automatically download and use the dataset.
+> If you prefer to use the included file manually, please update the file paths in the code accordingly.
+
 ## ⚙️ Technologies and Libraries
 
 * **Python 3**
